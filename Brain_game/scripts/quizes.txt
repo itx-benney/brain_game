@@ -1,0 +1,21 @@
+﻿Who is the owner of Microsoft Company?||Steve Jobs,Bill Gates,Larry Page||Bill Gates
+Who developed the Facebook?||Bill Gates,Zuckerberg,Elon Musk||Zuckerberg
+Where HTML is used?||App,Game,Web||Web
+Which of following is internet encyclopedia?||WikiPedia,Reddit,Facebook||WikiPedia
+What is ShortForm of HypertText Preprocessor?||HTP,PHP,HPTP||PHP
+Which language does Unity Game Engine use?||Python,C++,C#||C#
+Who developed Google?||Larry Page,Zuckerberg,Bill Gates||Larry Page
+Blazor is a framework for:||App,Web,Game||Web
+Where is OpenGL used for?||Graphic,Sound,Website||Graphic
+CSS is used for:||Style,Markup,Dynamic||Style
+What is Unreal?||Engine,Library,Package||Engine
+What is shortform of world wide web?||www,w3b,wwb||www
+Which language is mostly used for Machine Learning?||Python,Java,C||Python
+E=mc² is the equation by:||Einstein,Newton,Tesla||Einstein
+Where does the pyramids exist?||USA,Egypt,China||Egypt
+How to find force of a body?||F=ma,F=mg,F=m/a||F=ma
+.onion websites can be accessed with:||Tor,Chrome,FireFox||Tor
+How many developers developed the Minecraft?||Two,Five,One||One
+ChatGPT is a _____ model.||NLP,CV,Generative||NLP
+Where TensorFlow is used?||ML,Game,App||ML
+[Final Q.] Which vitamin can you get from a lemon?||A,D,C||C
