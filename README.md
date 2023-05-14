@@ -1,2 +1,2 @@
 # itx_benney_projects
-Here are my Csharp Portfolio projects.
+Note : if error happening in Toast, Delete or comment that line. I am practicing to get better UI improvement.
