@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+
+	xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"	xmlns:local="clr-namespace:Brain_game"
+
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+
+	x:Class="Brain_game.MainPage">
+
+		<StackLayout
+
+		    x:Name="gameScreen"
+
+			Orientation="Vertical"
+
+			BackgroundColor="Black">
+
+			   <Label Text="Brain Game"
+
+			          TextColor="White"
+
+			          Margin="10" 
+
+					  FontSize="19"
+
+					  FontFamily="fonts/FuturaPTBook.otf"/>
+
+			   <StackLayout x:Name="toolbar" HeightRequest="40">
+
+			       <Label 
+
+				   TextColor="Grey"
+
+				   Margin="10,0,0,0"
+
+				   Text="Answer quizes and enhance your knowledge"
+
+				   FontFamily="fonts/FuturaPTBook.otf" />
+
+			   </StackLayout>
+
+			<VerticalStackLayout x:Name="board" Margin="15,0,15,0" IsClippedToBounds="True" BackgroundColor="#202020">
+
+			<StackLayout x:Name="welcome" ZIndex="-1">
+
+			   <Image 
+
+			   Source="smart.png"
+
+			   HeightRequest="125"
+
+			   WidthRequest="125" 
+
+			   HorizontalOptions="Center"/>
+
+			   <Label
+
+			   Text="Ready to answer quizes? I wanna know your knowledge :)"
+
+			   HorizontalOptions="Center"
+
+			   FontFamily="fonts/FuturaPTBook.otf"
+
+			   TextColor="Yellow" />
+
+			   <Button
+
+			   x:Name="start_game"
+
+			   WidthRequest="125"
+
+			   HeightRequest="40"
+
+			   CornerRadius="25"
+
+			   BackgroundColor="Cyan"
+
+			   TextColor="Black"
+
+			   Margin="0,6,0,0"
+
+			   Text="Let's Start!"
+
+			   FontFamily="fonts/FuturaPTBook.otf"
+
+			   HorizontalOptions="Center"/>
+
+			</StackLayout>
+
+			</VerticalStackLayout>
+
+		</StackLayout>
+
+</ContentPage>
